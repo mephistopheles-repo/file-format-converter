@@ -77,7 +77,7 @@ public class MainClass {
                 outputFile = directory;
             } else {
                 if (!directory.exists()){
-                    directory.mkdir();
+                    directory.mkdirs();
                 }
                 outputFile = new File(outputDir + File.separator + atlas.getImageName()+".atlas");
             }
