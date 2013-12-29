@@ -29,7 +29,7 @@ Record {
     int offsetY
     int originalWidth
     int originalHeight
-    boolean isRotated
+    boolean rotated
 }
 
 List is some kind of array, like c++ vector;
