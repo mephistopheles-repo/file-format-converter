@@ -1,6 +1,6 @@
 file-format-converter
 =====================
--help -? -h        : this help
+-help -? -h        : this help 
 -src <path>        : atlas file directory. default: jar file directory
 -r                 : recursive search
 -filename <regexp> : file name pattern. default: .+\.atlas
